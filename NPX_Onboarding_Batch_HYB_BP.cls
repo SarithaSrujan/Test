@@ -1,6 +1,6 @@
 /**********************************************************************
 Name                :NPX_Onboarding_Batch_HYB_BP
-Other class used    : None
+Other class used    : None/New
 Tested in class     : NPX_Onboarding_Batch_HYB_Test
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 Purpose:
